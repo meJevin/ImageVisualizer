@@ -6,6 +6,7 @@
     <RootNamespace>Aberus.VisualStudio.Debugger.ImageVisualizer</RootNamespace>
     <UseWPF>true</UseWPF>
     <AssemblyName>Aberus.VisualStudio.Debugger.ImageVisualizer.DebuggeeSide</AssemblyName>
+    <Platforms>AnyCPU;x64</Platforms>
   </PropertyGroup>
 
   <ItemGroup>
